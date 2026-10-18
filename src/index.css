@@ -61,6 +61,16 @@ body {
   margin-inline-start: auto;
 }
 
+.site-menubar .p-menubar-end {
+  margin-left: 0;
+  margin-inline-start: auto;
+}
+
+[dir='rtl'] .p-menubar .p-menubar-root-list>.p-menuitem>.p-menuitem-content .p-menuitem-link .p-menuitem-icon {
+  margin-right: 0;
+  margin-inline-end: 0.5rem;
+}
+
 .site-menubar .p-menuitem-link {
   border-radius: 6px;
 }
