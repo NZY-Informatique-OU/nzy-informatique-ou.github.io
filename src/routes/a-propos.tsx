@@ -40,6 +40,9 @@ function AboutPage() {
             <dt>{t.about.legalReg}</dt>
             <dd>17613250</dd>
             <Divider />
+            <dt>{t.about.legalVat}</dt>
+            <dd>EE103045412</dd>
+            <Divider />
             <dt>{t.about.legalAddress}</dt>
             <dd>
               Kaupmehe tn 7-46, Kesklinna linnaosa,
